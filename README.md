@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=0F973F&background=2C2C2C&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Ol%C3%A1!+;Meu+nome+%C3%A9+Osmar+Bruno!)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=0F973F&background=2C2C2C&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Ol%C3%A1!+;Meu+nome+%C3%A9+Osmar+Bruno!)](https://git.io/typing-svg" align="center"/>
 
 <!--
 **BRun0442/BRun0442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
