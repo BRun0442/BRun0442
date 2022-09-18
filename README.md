@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=228B22&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Osmar+Bruno;Dev+Full+Stack;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=200&color=0F973F&background=2C2C2C&center=true&vCenter=true&multiline=true&width=435&height=70&lines=Ol%C3%A1!+;Meu+nome+%C3%A9+Osmar+Bruno!)](https://git.io/typing-svg)
 
 <!--
 **BRun0442/BRun0442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
