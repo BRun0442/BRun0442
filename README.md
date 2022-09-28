@@ -35,6 +35,7 @@ Here are some ideas to get you started:
   <h1>Tools and languages 💻<img align="center" src="https://img.icons8.com/cotton/64/000000/source-code--v4.png"/></h1>
   
   <img align="center" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+  <img height="48px" width="48px" align="center" src="http://www.aptechsp.com.br/wp-content/uploads/2015/01/linguagem-C-e1421281232968.png"/>
   <img align="center" src="https://img.icons8.com/color/48/000000/arduino.png"/>  
   <img align="center" src="https://img.icons8.com/color/48/000000/react-native.png"/>
   <img align="center" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
