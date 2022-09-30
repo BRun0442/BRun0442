@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BRun0442&theme=dark"/></div>
+
 <div align="center">
 <a href="https://github.com/BRun0442">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BRun0442&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
